@@ -1,2 +1,3 @@
 # hello_word
-just another repositoty
+Hi humans!
+Sono un ragazzo semplice.
